@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="211" started-at="2022-03-06T15:36:52 IST" finished-at="2022-03-06T15:36:52 IST">
+  <suite name="Suite" duration-ms="90" started-at="2022-03-06T16:01:26 IST" finished-at="2022-03-06T16:01:26 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="211" started-at="2022-03-06T15:36:52 IST" finished-at="2022-03-06T15:36:52 IST">
+    <test name="Test" duration-ms="90" started-at="2022-03-06T16:01:26 IST" finished-at="2022-03-06T16:01:26 IST">
       <class name="GitProjt.GitProjt.Demo2">
-        <test-method status="PASS" signature="hello()[pri:0, instance:GitProjt.GitProjt.Demo2@63440df3]" name="hello" duration-ms="17" started-at="2022-03-06T15:36:52 IST" finished-at="2022-03-06T15:36:52 IST">
+        <test-method status="PASS" signature="hello()[pri:0, instance:GitProjt.GitProjt.Demo2@3aeaafa6]" name="hello" duration-ms="15" started-at="2022-03-06T16:01:26 IST" finished-at="2022-03-06T16:01:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hello -->
       </class> <!-- GitProjt.GitProjt.Demo2 -->
+      <class name="GitProjt.GitProjt.Demo3">
+        <test-method status="PASS" signature="job()[pri:0, instance:GitProjt.GitProjt.Demo3@491cc5c9]" name="job" duration-ms="2" started-at="2022-03-06T16:01:26 IST" finished-at="2022-03-06T16:01:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- job -->
+      </class> <!-- GitProjt.GitProjt.Demo3 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

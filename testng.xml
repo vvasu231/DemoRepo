@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="GitProjt.GitProjt.Demo2"/>
+      <class name="GitProjt.GitProjt.Demo3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
