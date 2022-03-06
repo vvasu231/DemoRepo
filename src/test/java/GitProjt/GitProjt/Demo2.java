@@ -7,6 +7,7 @@ public class Demo2 {
 	@Test
 	public void hello() {
 		System.out.println("@Test: hello");
+		System.out.println("notification is out");
 	}
 	
 	
